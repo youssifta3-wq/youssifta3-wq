@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Youssif 👋
 
-<!--
-**youssifta3-wq/youssifta3-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack developer building real production platforms, not tutorial projects.
 
-Here are some ideas to get you started:
+**Currently:**
+- 🛋️ Maintaining & growing [Mega Furniture](#) — Egyptian furniture e-commerce platform
+- 🎭 Built [Patient X](https://patientx.site) — horror escape room booking system (Railway + PostgreSQL)
+- 🎓 3rd-year Digital Transformation student at Helwan National University
+- 📊 Preparing to move into Data Science & AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** HTML/CSS/JS, PostgreSQL, Railway deployment
+
+📫 [LinkedIn](https://linkedin.com/in/youssif-rashdan-5aa413365) · youssifta3@gmail.com
+
+*Note: my active repos are private (client work) — reach out if you'd like a walkthrough.*
