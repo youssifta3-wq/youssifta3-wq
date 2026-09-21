@@ -6,7 +6,9 @@ Fullstack developer building real production platforms, not tutorial projects.
 - 🛋️ Maintaining & growing **Mega Furniture** — Egyptian furniture e-commerce platform (pre-launch)
 - 🎭 Built [Patient X](https://www.patientx.site/) — horror escape room booking system (Railway + PostgreSQL)
 - 🎓 3rd-year Digital Transformation student at Helwan National University
-- 📊 Preparing to move into Data Science & AI
+- 📊 Preparing to move into Data Science & Ai
+- Iti Web Development Using Python & Generative AI Course
+- i can figure it out 😼
 
 **Stack:** HTML/CSS/JS, PostgreSQL, Railway deployment
 
