@@ -3,7 +3,7 @@
 Fullstack developer building real production platforms, not tutorial projects.
 
 **Currently:**
-- 🛋️ Maintaining & growing [MegaFurnitures]((https://megafurnitures.com/)) — Egyptian furniture e-commerce platform (pre-launch)
+- 🛋️ Maintaining & growing [MegaFurnitures](https://megafurnitures.com/) — Egyptian furniture e-commerce platform (pre-launch)
 - 🎭 Built [Patient X](https://www.patientx.site/) — horror escape room booking system (Railway + PostgreSQL)
 - 🎓 3rd-year Digital Transformation student at Helwan National University
 - 📊 Preparing to move into Data Science & Ai
