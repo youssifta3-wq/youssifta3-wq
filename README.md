@@ -8,6 +8,7 @@ Fullstack developer building real production platforms, not tutorial projects.
 - 🎓 3rd-year Digital Transformation student at Helwan National University
 - 📊 Preparing to move into Data Science & Ai
 - Iti Web Development Using Python & Generative AI Course
+- And ya ofc i do use ai
 - i can figure it out 😼
 
 **Stack:** HTML/CSS/JS, PostgreSQL, Railway deployment
